@@ -1,22 +1,21 @@
 {
-    "openapi": "3.0.3",
-    "info": {
-      "version": "5.0.0",
-      "title": "LAKOE API SPECIFICATION V 5.0.0",
-      "description": "Ini adalah dokumentasi untuk spesifikasi API untuk aplikasi E-Commerce Lakoe",
-      "contact": { "name": "Ahmad Safii", "email": "ahmadsafii.work@gmail.com" }
-    },
-  
-    "servers": [
-      {
-        "url": "http://iniyangdiganti/api/v1",
-        "description": "Lakoe RESTful API",
-        "variables": {
-          "environment": {
-            "description": "Server Environment",
-            "default": "dev",
-            "enum": ["dev", "prod"]
-          }
+  "openapi": "3.0.3",
+  "info": {
+    "version": "5.0.0",
+    "title": "LAKOE API SPECIFICATION V 5.0.0",
+    "description": "Ini adalah dokumentasi untuk spesifikasi API untuk aplikasi E-Commerce Lakoe",
+    "contact": { "name": "Ahmad Safii", "email": "ahmadsafii.work@gmail.com" }
+  },
+
+  "servers": [
+    {
+      "url": "http://iniyangdiganti/api/v1",
+      "description": "Lakoe RESTful API",
+      "variables": {
+        "environment": {
+          "description": "Server Environment",
+          "default": "dev",
+          "enum": ["dev", "prod"]
         }
       }
     }
@@ -33,7 +32,7 @@
           "format": "uuid",
           "example": "idusernyacontoh"
         },
-        "description": "Unique identifier for the resource"
+        "description": "anjing apaan lu"
       },
       "productId": {
         "name": "id",
