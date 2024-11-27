@@ -1,8 +1,8 @@
 {
     "openapi": "3.0.3",
     "info": {
-      "version": "5.0.0",
-      "title": "LAKOE API SPECIFICATION V 5.0.0",
+      "version": "6.0.0",
+      "title": "LAKOE API SPECIFICATION V 6.0.0",
       "description": "Ini adalah dokumentasi untuk spesifikasi API untuk aplikasi E-Commerce Lakoe",
       "contact": { "name": "Ahmad Safii", "email": "ahmadsafii.work@gmail.com" }
     },
